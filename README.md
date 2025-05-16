@@ -5,7 +5,7 @@
 Bug：
 
 
-![Image text](GameView/BlueBug0150.gif)
+![Image text](GameView/GreenBug.gif)
 ![Image text](GameView/BlueBug0150.gif)
 ![Image text](GameView/RedBug0150.gif)
 

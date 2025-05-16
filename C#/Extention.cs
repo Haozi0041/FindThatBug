@@ -1,0 +1,5 @@
+enum BugState
+{
+    idle,
+    attack
+}
